@@ -6,7 +6,7 @@ todo-playwright/
 ├── tests/
 │   └── todo.spec.ts        # Test cases (TC_01 - TC_04)
 │
-├── screenshots/            # Screenshots captured when tests PASS
+├── test-results/            # Screenshots captured when tests PASS
 │
 ├── playwright.config.ts    # Playwright configuration
 ├── package.json
